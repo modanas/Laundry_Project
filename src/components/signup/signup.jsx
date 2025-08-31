@@ -2,7 +2,7 @@
 import React, { useState } from "react";
 import { FaFacebook, FaGoogle } from "react-icons/fa";
 import { motion } from "framer-motion";
-import "./signupform.module.css"// <--- ADD THIS
+import styles from "./signupform.module.css"// <--- ADD THIS
 
 
 const SignUpForm = () => {
