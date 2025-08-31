@@ -10,7 +10,7 @@ import Contact from "./components/Contact/Contact";
 import Services from "./components/Services/Services";
 import BookNow from "./components/Booknow/BookNow";
 import LoginForm from "./components/Login/Login";
-import SignUpForm from "./components/signup/signup";
+import SignUpForm from "./components/signup/SignUpForm";
 import TestimonialCarousel from "./components/About/testimonial";
 import AnimatedContent from "./components/Animations/AnimatedContent/AnimatedContent";
 
