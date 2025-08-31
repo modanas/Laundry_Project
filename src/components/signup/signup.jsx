@@ -1,7 +1,5 @@
 // src/components/SignUpForm.jsx
 import React, { useState } from "react";
-import styles from "./SignUpForm.module.css";
-import { motion } from "framer-motion";
 import { FaFacebook, FaGoogle } from "react-icons/fa";
 
 const SignUpForm = () => {
